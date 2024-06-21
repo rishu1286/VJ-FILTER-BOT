@@ -707,7 +707,7 @@ special Thanks To ❤️ Developers -
 •> /see_caption - see your custom caption
 •> /del_caption - delete custom caption
 
-Example:- /set_caption 📕 File Name: {filename}
+Example:- /set_caption 📕 File Name: {@Royal_X_RoxStar}
 💾 Size: {filesize}
 ⏰ Duration: {duration}
 
