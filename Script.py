@@ -687,9 +687,9 @@ special Thanks To ❤️ Developers -
 
 -Dev 1 [Owner of this bot ]<a href='https://t.me/Royal_X_RoxStar'>VJ</a>
 
--Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
+-Dev 2 <a href='https://t.me/i_popcorn_movie_update'>VJ</a>
 
--Dev 3 <a href='https://t.me/vj_botz>VJ Botz</a>
+-Dev 3 <a href='https://t.me/You_Want_To_Know_Me</a>
 
 - Dev 4 <a href='https://t.me/PopCorn_Movie_Group'>TEAM VJ</a>
 """
