@@ -68,7 +68,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'Royal_X_RoxStar') # owner userna
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/PopCorn_Movie_Group')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/i_popcorn_movie_update')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/i_popcorn_movie_update/31')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Owner_helpbot') # Support Chat Link Without https:// or @
 
 # True Or False
@@ -98,7 +98,7 @@ VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '')
 # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', '')
 VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/i_popcorn_movie_update/31')
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
