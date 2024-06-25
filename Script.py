@@ -210,7 +210,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {@Royal_X_RoxStar}
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 <b> Size ⚙️: {file_size}</b>""" 
 
@@ -707,7 +707,7 @@ special Thanks To ❤️ Developers -
 •> /see_caption - see your custom caption
 •> /del_caption - delete custom caption
 
-Example:- /set_caption 📕 File Name: {@Royal_X_RoxStar}
+Example:- /set_caption 📕 File Name: {file_name}
 💾 Size: {filesize}
 ⏰ Duration: {duration}
 
